@@ -1,9 +1,12 @@
-Validation summary
-==================
-pytest: 4 passed
-notebook schema: valid
-Adam max absolute error: 4.122001134518327e-17
-Bias correction sustained <1%: step 3916
-Warmup first plateau step: 21
-Step-200 checkpoint choice: cosine
-Predicted LR at width 4096: 0.004007301083473137
+Session 11 validation summary
+=============================
+
+- Python source compilation: PASS
+- Automated tests: PASS (10 tests)
+- Adam manual/PyTorch numerical agreement: PASS (< 1e-12)
+- Bias-correction long-horizon threshold evidence: PRESENT
+- Paired warmup/no-warmup causal evidence: PRESENT
+- Cosine/WSD tuning uses 3 tuning seeds disjoint from 3 evaluation seeds: PRESENT
+- Width sweep includes coarse + refined search, 3 seeds, power-law fit, and 5,000-resample bootstrap: PRESENT
+- Causal Transformer replication artifacts: PRESENT
+- README figure references: PASS

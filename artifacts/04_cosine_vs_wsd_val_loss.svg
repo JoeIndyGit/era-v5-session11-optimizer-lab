@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+<rect width="100%" height="100%" fill="white"/>
+<text x="380.0" y="25" text-anchor="middle" font-family="Arial" font-size="18" font-weight="600">Cosine vs WSD: mean validation loss</text>
+<line x1="75" y1="360" x2="735" y2="360" stroke="#444"/>
+<line x1="75" y1="45" x2="75" y2="360" stroke="#444"/>
+<line x1="75" y1="45.0" x2="735" y2="45.0" stroke="#e5e7eb"/><text x="67" y="49.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">3.17</text>
+<line x1="75" y1="108.0" x2="735" y2="108.0" stroke="#e5e7eb"/><text x="67" y="112.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">2.72</text>
+<line x1="75" y1="171.0" x2="735" y2="171.0" stroke="#e5e7eb"/><text x="67" y="175.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">2.26</text>
+<line x1="75" y1="234.0" x2="735" y2="234.0" stroke="#e5e7eb"/><text x="67" y="238.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">1.81</text>
+<line x1="75" y1="297.0" x2="735" y2="297.0" stroke="#e5e7eb"/><text x="67" y="301.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">1.35</text>
+<line x1="75" y1="360.0" x2="735" y2="360.0" stroke="#e5e7eb"/><text x="67" y="364.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">0.897</text>
+<text x="75.0" y="380" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">1</text><text x="207.0" y="380" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">60.8</text><text x="339.0" y="380" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">121</text><text x="471.0" y="380" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">180</text><text x="603.0" y="380" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">240</text><text x="735.0" y="380" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">300</text>
+<polyline fill="none" stroke="#2563eb" stroke-width="2.2" points="75.0,67.5 94.9,160.3 116.9,237.7 119.1,243.7 139.0,282.2 161.1,299.2 183.2,306.6 205.2,310.4 227.3,308.5 249.4,313.6 271.5,315.1 293.5,315.8 315.6,316.6 337.7,319.4 359.7,320.9 381.8,321.2 403.9,322.8 426.0,325.5 448.0,327.2 470.1,328.7 492.2,330.7 514.3,331.7 536.3,334.0 558.4,335.3 580.5,336.0 602.6,335.9 624.6,336.3 646.7,336.9 668.8,337.7 690.9,337.8 712.9,338.0 735.0,338.3"/>
+<line x1="85" y1="405" x2="107" y2="405" stroke="#2563eb" stroke-width="3"/><text x="113" y="409" font-family="Arial" font-size="11">cosine</text>
+<polyline fill="none" stroke="#dc2626" stroke-width="2.2" points="75.0,66.7 94.9,131.7 116.9,217.8 119.1,222.4 139.0,262.9 161.1,287.7 183.2,301.6 205.2,308.2 227.3,308.9 249.4,312.2 271.5,315.0 293.5,315.8 315.6,318.1 337.7,319.9 359.7,320.1 381.8,319.3 403.9,320.6 426.0,323.0 448.0,322.6 470.1,324.1 492.2,326.6 514.3,326.2 536.3,328.3 558.4,328.4 580.5,328.2 602.6,330.3 624.6,331.9 646.7,335.0 668.8,335.4 690.9,335.5 712.9,336.4 735.0,337.2"/>
+<line x1="255" y1="405" x2="277" y2="405" stroke="#dc2626" stroke-width="3"/><text x="283" y="409" font-family="Arial" font-size="11">wsd</text>
+<text x="405.0" y="386" text-anchor="middle" font-family="Arial" font-size="13">Step</text><text transform="translate(18 202.5) rotate(-90)" text-anchor="middle" font-family="Arial" font-size="13">Validation loss</text>
+</svg>

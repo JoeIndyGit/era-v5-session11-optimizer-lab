@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420">
+<rect width="100%" height="100%" fill="white"/>
+<text x="380.0" y="25" text-anchor="middle" font-family="Arial" font-size="18" font-weight="600">Width × learning-rate sweep</text>
+<line x1="75" y1="360" x2="735" y2="360" stroke="#444"/>
+<line x1="75" y1="45" x2="75" y2="360" stroke="#444"/>
+<line x1="75" y1="45.0" x2="735" y2="45.0" stroke="#e5e7eb"/><text x="67" y="49.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">1.17</text>
+<line x1="75" y1="108.0" x2="735" y2="108.0" stroke="#e5e7eb"/><text x="67" y="112.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">1.15</text>
+<line x1="75" y1="171.0" x2="735" y2="171.0" stroke="#e5e7eb"/><text x="67" y="175.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">1.13</text>
+<line x1="75" y1="234.0" x2="735" y2="234.0" stroke="#e5e7eb"/><text x="67" y="238.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">1.12</text>
+<line x1="75" y1="297.0" x2="735" y2="297.0" stroke="#e5e7eb"/><text x="67" y="301.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">1.1</text>
+<line x1="75" y1="360.0" x2="735" y2="360.0" stroke="#e5e7eb"/><text x="67" y="364.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">1.08</text>
+<text x="75.0" y="380" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">0.004</text><text x="207.0" y="380" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">0.00498</text><text x="339.0" y="380" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">0.00621</text><text x="471.0" y="380" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">0.00773</text><text x="603.0" y="380" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">0.00963</text><text x="735.0" y="380" text-anchor="middle" font-family="Arial" font-size="11" fill="#555">0.012</text>
+<polyline fill="none" stroke="#2563eb" stroke-width="2.2" points="75.0,66.7 209.1,127.0 318.6,161.6 491.4,190.1 625.5,189.4 735.0,167.9"/><line x1="85" y1="405" x2="107" y2="405" stroke="#2563eb" stroke-width="3"/><text x="113" y="409" font-family="Arial" font-size="11">width 256</text>
+<polyline fill="none" stroke="#dc2626" stroke-width="2.2" points="75.0,225.7 209.1,263.9 318.6,283.4 491.4,289.1 625.5,264.2 735.0,222.5"/><line x1="255" y1="405" x2="277" y2="405" stroke="#dc2626" stroke-width="3"/><text x="283" y="409" font-family="Arial" font-size="11">width 512</text>
+<polyline fill="none" stroke="#16a34a" stroke-width="2.2" points="75.0,303.2 209.1,328.3 318.6,338.3 491.4,322.1 625.5,271.0 735.0,196.0"/><line x1="425" y1="405" x2="447" y2="405" stroke="#16a34a" stroke-width="3"/><text x="453" y="409" font-family="Arial" font-size="11">width 1024</text>
+<text x="405.0" y="386" text-anchor="middle" font-family="Arial" font-size="13">Peak learning rate</text><text transform="translate(18 202.5) rotate(-90)" text-anchor="middle" font-family="Arial" font-size="13">Validation loss</text>
+</svg>

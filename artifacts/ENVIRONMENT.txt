@@ -1,0 +1,13 @@
+Reproducibility environment
+===========================
+Python: 3.13.5
+PyTorch: 2.10.0+cpu
+NumPy: 2.3.5
+pandas: 2.2.3
+matplotlib: 3.10.8
+pytest: 9.0.2
+nbformat: 5.10.4
+Platform: Linux x86_64
+
+The project specifies minimum compatible versions in requirements.txt.
+Exact observed versions above document the environment used for the packaged evidence.
